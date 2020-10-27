@@ -1,8 +1,8 @@
 {
-  "name": "@trademocha/firebase-token-verifier",
+  "name": "@trademocha/captcha-verifier",
   "version": "1.0.4",
   "dependencies": {
-    "firebase-admin": "latest",
-    "aws-sdk": "^2.624.0"
+    "aws-sdk": "^2.779.0",
+    "node-fetch": "^2.6.1"
   }
 }
