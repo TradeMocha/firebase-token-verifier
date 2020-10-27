@@ -1,5 +1,5 @@
 {
-  "name": "@optionalpaca/firebase-token-verifier",
+  "name": "@trademocha/firebase-token-verifier",
   "version": "1.0.4",
   "dependencies": {
     "firebase-admin": "latest",
